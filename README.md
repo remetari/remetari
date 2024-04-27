@@ -1,5 +1,10 @@
 <br clear="both">
 
+[![CodeWars](https://www.codewars.com/users/nikita-argunov/badges/large)](https://www.codewars.com/users/nikita-argunov)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/NitoAnri)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0D76A8)](href="https://t.me/NitoAnri)
+
 <div align="center"> <img  src="https://www.codewars.com/users/nikita-argunov/badges/large" /></div>
 
 ###
@@ -36,11 +41,5 @@
   <img width="12" />
 </div>
 
-###
 
-  <p><a target="blank" href="https://t.me/NitoAnri">
-  <img src="https://cdn.simpleicons.org/telegram/#26A5E4" height="40" alt="https://t.me/NitoAnri"  />
-  </p>
-
-</a>
 
