@@ -2,14 +2,15 @@
   <a href="https://www.codewars.com/users/nikita-argunov">
     <img src="https://www.codewars.com/users/nikita-argunov/badges/large" alt="CodeWars">
   </a>
+</div>
   <br>
   <div align="center">
-    
     <a href="https://t.me/NitoAnri">
       <img src="https://img.shields.io/badge/Telegram-Profile-informational?style=for-the-badge&amp;logo=telegram&amp;logoColor=white&amp;color=0D76A8" alt="Telegram Badge">
     </a>
+    
   </div>
-</div>
+
 
 ###
 
