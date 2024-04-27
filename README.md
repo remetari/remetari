@@ -34,9 +34,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
-
+</div>
 ###
- <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" alt="telegram logo />
- 
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" height="40" alt="telegram logo"  />
+  <img width="12" />
+ </div>
 
 ###
