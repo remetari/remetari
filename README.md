@@ -37,8 +37,11 @@
 </div>
 ###
   <div align="left">
+<a href="https://t.me/NitoAnri">
   <img src="https://cdn.simpleicons.org/telegram/#26A5E4" height="40" alt="telegram logo"  />
   <img width="12" />
+</a>a>
+  
  </div>
 
 ###
