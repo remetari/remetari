@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">Привет👋 Меня зовут Никита!</h1>
-<div align="center"> <img width="100"  src="https://www.codewars.com/users/nikita-argunov/badges/large" /></div>
+<div align="center"> <img height="50" width="200"  src="https://www.codewars.com/users/nikita-argunov/badges/large" /></div>
 ###
 
 <h3 align="left">👩‍💻  Обо мне</h3>
