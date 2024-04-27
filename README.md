@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <a href="https://www.codewars.com/users/nikita-argunov">
     <img src="https://www.codewars.com/users/nikita-argunov/badges/large" alt="CodeWars">
   </a>
