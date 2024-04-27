@@ -38,9 +38,9 @@
 
 ###
 
-  <div align="left">
-<a target="blank" href="https://t.me/NitoAnri">
+  <p><a target="blank" href="https://t.me/NitoAnri">
   <img src="https://cdn.simpleicons.org/telegram/#26A5E4" height="40" alt="https://t.me/NitoAnri"  />
-  <img width="12" />
+  <img width="12" /></p>
+
 </a>
 
