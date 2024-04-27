@@ -37,6 +37,6 @@
 
 ###
  <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" alt="telegram logo />
- <img width="12" />
+ 
 
 ###
