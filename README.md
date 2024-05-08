@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Я начинающий Frontend-разработчик. Завершил очный курс Nordic IT School Frontend MERN+TS+Socket.IO и также присутствует опыт работы в двух Frontend командах разработки. </p>
+<p align="left">Я Frontend-разработчик. Присутствует опыт работы в двух Frontend командах разработки. </p>
 
 ###
 
