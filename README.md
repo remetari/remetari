@@ -2,6 +2,8 @@
   <a href="https://www.codewars.com/users/nikita-argunov">
     <img src="https://www.codewars.com/users/nikita-argunov/badges/large" alt="CodeWars">
   </a>
+  
+<a><img src="https://leetcard.jacoblin.cool/nikita-argunov" alt="LeetCode"></a>
 </div>
   <div align="center">
     <a href="https://t.me/NitoAnri">
